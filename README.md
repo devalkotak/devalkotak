@@ -1,6 +1,6 @@
-## Hi, I'm Deval
+## Hey, I'm Deval. CyberSec Intern @ JioStar.
 
-I work across two areas, both heavy on Python: security tooling and quantitative / algorithmic trading. Most repos here are concepts I wanted to understand by building them instead of just reading about them. Currently at JioStar.
+I break web apps, build the tools that catch what's broken, and point the same Python at the markets. Two tracks live here: offensive security and quantitative / algo trading. Everything below is something I wanted to genuinely understand, so I built it instead of just reading about it.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
