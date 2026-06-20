@@ -1,14 +1,17 @@
 ## Hi, I'm Deval
 
-I build security tools and break web apps. Each repo here is a concept I wanted to understand by building it instead of just reading about it: firewalls, traffic analysis, malware triage, crypto. Currently at JioStar.
+I work across two areas, both heavy on Python: security tooling and quantitative / algorithmic trading. Most repos here are concepts I wanted to understand by building them instead of just reading about them. Currently at JioStar.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Tools
+### Security tools
 
 | Tool | What it does |
 |---|---|
@@ -18,16 +21,13 @@ I build security tools and break web apps. Each repo here is a concept I wanted 
 | [fortress-cipher](https://github.com/devalkotak/fortress-cipher) | AES-256-GCM encryption with PBKDF2 key derivation |
 | [log-analyzer](https://github.com/devalkotak/log-analyzer) | Pulls suspicious entries out of Linux and Windows system logs |
 
-### Currently building
+### Quant and data
 
-A set of small, focused offensive and defensive tools, alongside the PortSwigger Web Security Academy track (working toward BSCP). First up: a JWT attack toolkit covering alg:none, weak-secret cracking, and kid injection.
-
-### Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devalkotak&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalkotak&layout=compact&hide_border=true&theme=tokyonight&hide=jupyter%20notebook" alt="Top languages">
-</p>
+| Project | What it does |
+|---|---|
+| [SMACrossoverStrategy-DhanAPI](https://github.com/devalkotak/SMACrossoverStrategy-DhanAPI) | Polling SMA crossover trading engine on the Dhan API. Paper trading with repaint-proof signals, stop-loss and take-profit, and a PnL-based risk cutoff |
+| [data-warehouse-sql-project](https://github.com/devalkotak/data-warehouse-sql-project) | SQL Server warehouse with a bronze/silver/gold ETL pipeline over CRM and ERP sources, ending in a star schema |
+| [healthcare-readmission-analysis](https://github.com/devalkotak/healthcare-readmission-analysis) | EDA on 100k+ hospital encounters (UCI diabetes dataset) to find factors behind 30-day readmission |
 
 ### Find me
 
