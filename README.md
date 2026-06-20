@@ -1,6 +1,6 @@
 ## Hey, I'm Deval. CyberSec Intern @ JioStar.
 
-I break web apps, build the tools that catch what's broken, and point the same Python at the markets. Two tracks live here: offensive security and quantitative / algo trading. Everything below is something I wanted to genuinely understand, so I built it instead of just reading about it.
+Two obsessions, one language. I use Python to break into web apps and to trade markets. Half this profile is offensive security tooling, the other half is quant and algo-trading, and all of it I built to actually understand it.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
