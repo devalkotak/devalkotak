@@ -69,10 +69,3 @@ setup that taught me more about handling live state than any tutorial did.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<br />
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalkotak&theme=github_dark" alt="Languages by repo" />
-
-</div>
