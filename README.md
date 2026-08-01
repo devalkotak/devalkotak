@@ -73,13 +73,6 @@ setup that taught me more about handling live state than any tutorial did.
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=devalkotak&hide_border=true&background=030303&stroke=1A1A1A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=CCCCCC&currStreakNum=EDEDED&sideNums=EDEDED&dates=6B6B6B" alt="Contribution streak" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalkotak&theme=github_dark" alt="Languages by repo" />
 
 </div>
-
-<br />
-
-> The repos are below. Descriptions are honest, the READMEs explain why the thing
-> exists before they explain how to run it, and nothing is starred by anyone I
-> know.
