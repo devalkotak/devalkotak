@@ -17,11 +17,11 @@
 
 ---
 
-Cybersecurity intern at **JioStar**, where I run pentests against production and
-build the tooling that covers what nobody has time to test by hand. Most of what
-I know came from pulling something apart to find out why it behaved strangely.
-Most of what I build came from not wanting to do that by hand the next fifty
-times.
+Ex-Cybersecurity Intern at **JioStar**, where I ran pentests against production
+and built the tooling that covers what nobody has time to test by hand. Most of
+what I know came from pulling something apart to find out why it behaved
+strangely. Most of what I build came from not wanting to do that by hand the
+next fifty times.
 
 Before this I co-founded **Optiverse**, a student-run mentorship non-profit that
 reached 150,000 students across 19 countries, and ran security at **DJS ISACA**
